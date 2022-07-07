@@ -11,6 +11,6 @@ public class Log4j1 {
 	  log.warn("No");
 	  log.error("Use");
 	  log.fatal("Fat");
-	  log.debug("Got");
+	  log.debug("Go");
   }
 }
